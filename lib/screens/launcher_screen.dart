@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:number_estimation/screens/home_page.dart';
 import 'package:splashscreen/splashscreen.dart';
+import 'package:fluttertoast/fluttertoast.dart';
+
 
 class LauncherScreen extends StatefulWidget {
   @override

@@ -4,7 +4,6 @@ import 'package:number_estimation/components/card.dart';
 import 'package:number_estimation/components/custom_dialog.dart';
 import 'package:number_estimation/constants.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:fluttertoast/fluttertoast.dart';
 import 'package:flutter/services.dart';
 
 class HomeScreen extends StatefulWidget {
